@@ -21,3 +21,6 @@ In the folder python_files, there are four .py files-
 -  In the file named CV_Project_1_(fisher_&_LBP_on_IITCampusData).py, the code for fisher face method and the Local Binary Pattern method on the own collected dataset is present.
 - In the file named CV_Project_1_(fisher_&_LBP_on_ORL_and_AT&T).py, the code for fisher face method and the Local Binary Pattern method on the ORL database and AT&T faces dataset is present.
 - In the file named cv_project1_BOVW.py, the code for Bag of Visual words method on all the three datasets (i.e ORL database, AT&T faces dataset and own collected dataset) is present.
+
+# youtube video link:
+[Link5](https://youtu.be/ZmnEeTqbXHk)
