@@ -1,5 +1,5 @@
 # computer_vision_project
-computer vision project -1 (Face recognition)
+computer vision project -1 (face recognition)
 
 # python notebook file details:
 In the folder ipynb_files, there are four notebook files-
